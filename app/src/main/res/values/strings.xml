@@ -1,0 +1,8 @@
+
+<resources>
+    <string name="app_name">Belajar RoomDB</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">masukkan kata..</string>
+    <string name="button_save">Simpan</string>
+    <string name="empty_not_saved">tidak dapat disimpan</string>
+</resources>
